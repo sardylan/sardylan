@@ -10,11 +10,13 @@
   Software suite for managing Lan Parties (yes, there are still people doing it), Tournaments, Scores, etc.
 - [AudioReceiver](https://github.com/sardylan/audioreceiver)<br/>
   VLF radio receiver using a PC Soundcard for direct sampling<br/>
+- [qFM1000](https://github.com/sardylan/qfm1000)<br/>
+  Philips FM1000 EEPROM channels and configuration parameters editor<br/>
   
 #### 📫 How to reach me:
 
 - via e-mail: sardylan [at] gmail [dot] com
-- via ham-radio as **IS0GVH**
+- via Ham Radio: on HF, VHF or UHF, just answer to my CQ as **[IS0GVH](https://qrz.com/db/IS0GVH)**
 - visiting ✨ *[Sardinia Island, Italy](https://www.google.com/maps/place/Sardinia)* ✨ 
 
 <!--
