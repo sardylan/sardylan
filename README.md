@@ -2,14 +2,6 @@
 
 #### 🔭 I’m currently working on:
 
-- [Manager](https://github.com/thehellnet/lanparty-manager) |
-  [Backoffice](https://github.com/thehellnet/lanparty-backoffice) |
-  [Showcase](https://github.com/thehellnet/lanparty-showcase) |
-  [Player Tool](https://github.com/thehellnet/lanparty-tool) |
-  [Spectate Tool](https://github.com/thehellnet/lanparty-spectool)<br/>
-  Software suite for managing Lan Parties (yes, there are still people doing it), Tournaments, Scores, etc.
-- [AudioReceiver](https://github.com/sardylan/audioreceiver)<br/>
-  VLF radio receiver using a PC Soundcard for direct sampling<br/>
 - [qFM1000](https://github.com/sardylan/qfm1000)<br/>
   Philips FM1000 EEPROM channels and configuration parameters editor<br/>
   
