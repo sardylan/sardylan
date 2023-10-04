@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🔭 I’m currently working on:
+#### 🔭 Main projects:
 
 - [qFM1000](https://github.com/sardylan/qfm1000)<br/>
   Philips FM1000 EEPROM channels and configuration parameters editor<br/>
