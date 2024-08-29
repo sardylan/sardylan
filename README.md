@@ -2,9 +2,15 @@
 
 #### 🔭 Main projects:
 
+- [Wavelog Hamlib](https://github.com/sardylan/wavelog-hamlib)<br/>
+  Simple tool to connect Hamlib rigctld instance with Wavelog<br/>
 - [qFM1000](https://github.com/sardylan/qfm1000)<br/>
   Philips FM1000 EEPROM channels and configuration parameters editor<br/>
   
+#### 😄 Pronouns:
+
+I go by he, him, his.
+
 #### 📫 How to reach me:
 
 - via e-mail: sardylan [at] gmail [dot] com
