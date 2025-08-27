@@ -1,15 +1,17 @@
-### Hi there 👋
+### Hello there 👋
 
-#### 🔭 Main projects:
+#### 🔭 Working on:
 
-- [Wavelog Hamlib](https://github.com/sardylan/wavelog-hamlib)<br/>
-  Simple tool to connect Hamlib rigctld instance with Wavelog<br/>
-- [qFM1000](https://github.com/sardylan/qfm1000)<br/>
-  Philips FM1000 EEPROM channels and configuration parameters editor<br/>
+- [radif](https://github.com/sardylan/radif)<br/>
+  Rust ADIF format library for parsing and serialization.
 - [Pluto+ firmware](https://github.com/sardylan/plutoplus)<br />
   Updated custom firmware for Pluto+ (chinese clone of the ADALM Pluto SDR)
 - [qMorseAudio](https://github.com/sardylan/qMorseAudio)<br />
   Morse tone generator for SDR transmission
+- [Wavelog Hamlib](https://github.com/sardylan/wavelog-hamlib)<br/>
+  Simple tool to connect Hamlib rigctld instance with Wavelog<br/>
+- [qFM1000](https://github.com/sardylan/qfm1000)<br/>
+  Philips FM1000 EEPROM channels and configuration parameters editor<br/>
   
 #### 😄 Pronouns:
 
